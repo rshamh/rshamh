@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+![](https://komarev.com/ghpvc/?username=rshamh&style=flat-square)
 <!--
 **rshamh/rshamh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
